@@ -18,7 +18,7 @@ The internal governance layer for know-how, context, dependencies, permissions, 
 
 ## TransactionHub layer
 
-The inter-organization coordination layer for contracting, settlement, attribution, resource allocation, and reputation portability.
+The inter-organization coordination layer for settlement, attribution, resource allocation, access exchange, and reputation portability.
 
 ## Know-how asset
 

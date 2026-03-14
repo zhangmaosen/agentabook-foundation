@@ -4,7 +4,7 @@ Agentabook should be read in two domains.
 
 ## Internal Domain
 
-Inside one organization, the main problem is not transaction.
+Inside one organization, the main problem is not settlement.
 The main problem is coordinated execution and governed reuse.
 
 That is why GitHub and DataHub patterns belong here.

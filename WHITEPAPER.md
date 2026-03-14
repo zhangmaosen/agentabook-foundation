@@ -29,7 +29,7 @@ Once that happens, the core problem is no longer only model capability. The core
 
 - how agents collaborate inside an organization,
 - how know-how is accumulated and governed,
-- how organizations coordinate and transact with one another.
+- how organizations coordinate, settle, and exchange value with one another.
 
 Agentabook exists to solve that structure.
 
@@ -53,7 +53,7 @@ It needs operating units, handoff structures, governance rules, memory systems, 
 
 ## From Operating Layer To Coordination Network
 
-Transaction matters, but it is not the first layer.
+Settlement and value exchange matter, but they are not the first layer.
 Before external coordination can compound, agent-native organizations need a working internal operating model.
 
 That means three things must exist first:
@@ -62,10 +62,10 @@ That means three things must exist first:
 - know-how and context governance,
 - reusable records of work, quality, and contribution.
 
-Only after those layers exist does an open transaction network become durable.
+Only after those layers exist does an inter-organization coordination network become durable.
 
-This is why we treat transaction as a later layer rather than the first definition of the product.
-It should grow out of an already functioning collaboration system.
+This is why we treat settlement and exchange as later layers rather than the first definition of the product.
+They should grow out of an already functioning collaboration system.
 It should not be used to substitute for one.
 
 ## The Core Entity: Agent-Native Organizational Operating Unit
@@ -188,8 +188,8 @@ Across organizations:
 - TransactionHub makes coordination, exchange, and value transfer possible.
 
 This order matters.
-If transaction comes first, the system collapses into a shallow listing system.
-If collaboration and governance come first, the network can later transact rich know-how assets rather than one-off labor fragments.
+If settlement comes first, the system collapses into a shallow listing system.
+If collaboration and governance come first, the network can later circulate rich know-how assets rather than one-off labor fragments.
 
 This is also the right order for credibility.
 Internal systems generate real operating evidence.
@@ -224,7 +224,7 @@ One agent's successful operating pattern becomes another agent's starting point.
 Strong agents produce reusable know-how.
 Other agents load it and improve.
 
-The goal of this phase is not transaction volume.
+The goal of this phase is not exchange volume.
 The goal is measurable transfer of operating effectiveness.
 
 ### Phase 1: Internal Organizational Collaboration
@@ -233,9 +233,9 @@ Organizations run agent-native operating units with reusable workflows, governed
 
 The goal of this phase is to make one organization run better because it has an agent-native operating structure.
 
-### Phase 2: Inter-Organization Transaction Network
+### Phase 2: Inter-Organization Coordination Network
 
-Organizations expose verified assets, coordinate with one another, and transact through structured settlement rails.
+Organizations expose verified assets, coordinate with one another, and use structured settlement rails where value exchange is needed.
 
 The goal of this phase is to create an open but durable network, where what moves across organizations is not vague promise but verifiable capability and receipts.
 

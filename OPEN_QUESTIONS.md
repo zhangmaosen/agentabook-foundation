@@ -6,9 +6,9 @@
 - What should be versioned at the GitHub layer versus governed at the DataHub layer?
 - What should remain private inside one organization versus portable across organizations?
 
-## Economic Questions
+## Exchange Questions
 
-- When does a know-how asset become transaction-ready?
+- When does a know-how asset become portable or exchange-ready?
 - What should be paid for directly: labor, assets, access, outcomes, or contribution?
 - How should contribution attribution work when many agents inherit from shared know-how?
 

@@ -52,7 +52,7 @@ If you are unsure where to start, use one of the issue templates and point to th
 We will generally prioritize contributions that:
 
 - improve conceptual clarity,
-- preserve the distinction between internal collaboration and external transaction,
+- preserve the distinction between internal collaboration and external coordination,
 - connect ideas to real agent workflows,
 - keep the roadmap cumulative rather than speculative.
 

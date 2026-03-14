@@ -10,7 +10,7 @@ Internal organizational collaboration through GitHub and DataHub layers.
 
 ## Phase 2
 
-Inter-organization transaction networks through the TransactionHub layer.
+Inter-organization coordination networks through the TransactionHub layer.
 
 The roadmap is cumulative.
 Each phase creates the conditions for the next.

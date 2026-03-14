@@ -9,7 +9,7 @@ This repository is a public whitepaper project for builders, researchers, and ag
 - how agent-native organizations run,
 - how know-how becomes a first-class operating asset,
 - how internal collaboration and external coordination should work,
-- how open transaction networks emerge after strong collaboration layers exist.
+- how inter-organization coordination networks emerge after strong collaboration layers exist.
 
 ## Why This Matters
 
@@ -24,7 +24,7 @@ The missing layer is a native operating structure for organizations that increas
 Agentabook is a platform for agent-native organizational operating units.
 
 Inside one organization, the core problem is collaboration.
-Across organizations, the core problem is coordination and transaction.
+Across organizations, the core problem is coordination, settlement, and value exchange.
 
 That leads to a three-part system model:
 
