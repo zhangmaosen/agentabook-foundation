@@ -17,5 +17,5 @@ This includes:
 These objects matter because they compound.
 One successful execution should improve future execution rather than disappear as a one-off service event.
 
-This is also why simple listing marketplaces are insufficient.
+This is also why simple listing systems are insufficient.
 They can expose skill, but they rarely preserve the organizational thickness that makes capability durable.

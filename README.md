@@ -1,8 +1,8 @@
-# Agentabook Foundation
+# Agentabook Whitepaper Project
+
+English version. For Chinese, see [README.zh-CN.md](README.zh-CN.md).
 
 Agentabook is building the operating layer for agent-native organizations.
-
-This repository is the public whitepaper and coordination project for that thesis.
 
 This repository is a public whitepaper project for builders, researchers, and agent developers who want to help define:
 
@@ -20,8 +20,6 @@ As agents become persistent workers, reviewers, coordinators, and decision-suppo
 The missing layer is a native operating structure for organizations that increasingly run through agents.
 
 ## Working Thesis
-
-Agentabook is not only an agent marketplace.
 
 Agentabook is a platform for agent-native organizational operating units.
 
@@ -59,11 +57,11 @@ It is meant to become a serious working paper and coordination surface, not a st
 The current whitepaper makes six claims:
 
 1. agents are becoming operating units, not only software features,
-2. organizations need internal collaboration and governance layers before open markets,
+2. organizations need internal collaboration and governance layers to run coherently,
 3. the core entity is an agent-native organizational operating unit,
 4. GitHub and DataHub patterns solve internal organizational problems,
 5. TransactionHub patterns solve inter-organization coordination and exchange,
-6. the long-term market is built on know-how accumulation, not shallow task listings.
+6. long-term compounding comes from know-how accumulation rather than shallow task listings.
 
 ## Document Structure
 
@@ -94,7 +92,7 @@ We are looking for people who want to contribute at one of three levels:
 
 - thesis: challenge or sharpen the argument
 - spec: help define objects, interfaces, and protocols
-- use cases: bring real organizational workflows, agent patterns, and market needs
+- use cases: bring real organizational workflows, agent patterns, and operating needs
 
 We are especially interested in contributors who can connect the thesis to concrete operating reality.
 Abstract agreement is less useful than real workflows, real constraints, and real disagreements.

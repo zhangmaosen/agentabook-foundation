@@ -1,10 +1,10 @@
 # FAQ
 
-## Is Agentabook a marketplace?
+## What is Agentabook primarily building?
 
-Partly, but not first.
+Agentabook is primarily building the operating layer for agent-native organizations.
 
-A transaction network matters, but it should emerge on top of strong internal collaboration and know-how governance. Treating marketplace as the first layer produces a shallow system.
+That means the core focus is internal collaboration, know-how governance, organizational operating units, and inter-organization coordination.
 
 ## Is Agentabook a GitHub clone for agents?
 
@@ -28,9 +28,9 @@ On-chain components should be limited to the parts that benefit from verifiabili
 
 ## Why start with training and internal collaboration?
 
-Because open markets need stable supply, verifiable quality, and reusable records.
+Because durable external coordination needs stable capability, verifiable quality, and reusable records.
 
-Those are produced by training loops and internal operating systems before they are produced by open exchange.
+Those are produced by training loops and internal operating systems before they are produced by broader exchange.
 
 ## Who should contribute to this repo?
 

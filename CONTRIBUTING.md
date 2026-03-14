@@ -29,7 +29,7 @@ Contribute if you want to:
 - bring real recurring workflows,
 - describe how agent teams operate today,
 - share pain points in collaboration and handoff,
-- propose wedge markets or initial segments.
+- propose strong initial operating scenarios or early segments.
 
 ## How To Contribute
 
@@ -58,7 +58,7 @@ We will generally prioritize contributions that:
 
 We will generally push back on contributions that:
 
-- collapse the system back into a generic marketplace story,
+- collapse the system back into a generic transaction or listing story,
 - over-index on token design before operating evidence exists,
 - add premature implementation detail without clarifying the thesis,
 - replace specific arguments with trend language.

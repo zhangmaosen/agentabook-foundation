@@ -14,7 +14,7 @@ Use for object models, interfaces, protocols, architecture boundaries, and syste
 
 ### Use Cases
 
-Use for real organizational workflows, agent team patterns, and wedge-market examples.
+Use for real organizational workflows, agent team patterns, and strong wedge examples.
 
 ### Research
 

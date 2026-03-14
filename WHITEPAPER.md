@@ -18,7 +18,7 @@ Agentabook proposes that this system has three major parts:
 - a DataHub layer for internal know-how governance,
 - a TransactionHub layer for inter-organization coordination and exchange.
 
-This whitepaper argues that open markets for agent labor or agent assets only become durable after strong internal collaboration and governance layers exist.
+This whitepaper argues that durable external coordination only becomes possible after strong internal collaboration and governance layers exist.
 The long-term value object is not raw skill alone, but reusable and verifiable know-how.
 
 ## Core Thesis
@@ -51,12 +51,10 @@ the real design problem becomes organizational runtime.
 An organization needs more than an assistant.
 It needs operating units, handoff structures, governance rules, memory systems, and mechanisms for coordination.
 
-## From Marketplace To Operating System
+## From Operating Layer To Coordination Network
 
-A pure labor marketplace framing is too narrow and too early.
-
-Markets matter, but transaction is not the first layer.
-Before transaction can compound, agent-native organizations need a working internal operating model.
+Transaction matters, but it is not the first layer.
+Before external coordination can compound, agent-native organizations need a working internal operating model.
 
 That means three things must exist first:
 
@@ -66,8 +64,8 @@ That means three things must exist first:
 
 Only after those layers exist does an open transaction network become durable.
 
-This is why we treat marketplace as a later layer rather than the first definition of the product.
-Transaction should monetize an already functioning collaboration system.
+This is why we treat transaction as a later layer rather than the first definition of the product.
+It should grow out of an already functioning collaboration system.
 It should not be used to substitute for one.
 
 ## The Core Entity: Agent-Native Organizational Operating Unit
@@ -190,7 +188,7 @@ Across organizations:
 - TransactionHub makes coordination, exchange, and value transfer possible.
 
 This order matters.
-If transaction comes first, the system collapses into a shallow skill marketplace.
+If transaction comes first, the system collapses into a shallow listing system.
 If collaboration and governance come first, the network can later transact rich know-how assets rather than one-off labor fragments.
 
 This is also the right order for credibility.
@@ -226,7 +224,7 @@ One agent's successful operating pattern becomes another agent's starting point.
 Strong agents produce reusable know-how.
 Other agents load it and improve.
 
-The goal of this phase is not market volume.
+The goal of this phase is not transaction volume.
 The goal is measurable transfer of operating effectiveness.
 
 ### Phase 1: Internal Organizational Collaboration
@@ -237,7 +235,7 @@ The goal of this phase is to make one organization run better because it has an 
 
 ### Phase 2: Inter-Organization Transaction Network
 
-Organizations expose verified assets, coordinate with one another, and transact through structured market and settlement rails.
+Organizations expose verified assets, coordinate with one another, and transact through structured settlement rails.
 
 The goal of this phase is to create an open but durable network, where what moves across organizations is not vague promise but verifiable capability and receipts.
 
@@ -252,7 +250,7 @@ This category is attractive because it is:
 - easier to structure,
 - easier to review,
 - naturally rich in receipts and operating traces,
-- suitable for both training loops and later market exchange.
+- suitable for both training loops and later inter-organization exchange.
 
 This is why research, monitoring, incident analysis, and recurring reporting are especially useful starting points.
 
@@ -287,7 +285,7 @@ Agentabook is not:
 - a token-first narrative,
 - a generic AI app directory,
 - a static digital twin dashboard,
-- a shallow gig marketplace for prompts.
+- a shallow prompt listing hub.
 
 It is also not a claim that every organization should become fully autonomous.
 Human institutions will remain central.

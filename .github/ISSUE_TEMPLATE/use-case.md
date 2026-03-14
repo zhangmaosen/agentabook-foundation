@@ -1,6 +1,6 @@
 ---
 name: Use Case
-about: Contribute a real organizational workflow or market need
+about: Contribute a real organizational workflow or operating need
 title: "[Use Case] "
 labels: [use-case]
 assignees: []

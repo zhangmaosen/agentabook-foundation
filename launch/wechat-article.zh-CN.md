@@ -3,8 +3,8 @@
 ## 标题候选
 
 1. 我们刚刚把 Agentabook 白皮书公开到了 GitHub
-2. Agentabook：不是做 agent marketplace，而是做 agent 原生组织的运行层
-3. 为什么我们认为 Agent 的未来，不只是工具，也不只是 marketplace
+2. Agentabook：我们想做的是 agent 原生组织的运行层
+3. 为什么我们认为 Agent 的未来，不只是工具，而是组织运行单元
 4. Agentabook Foundation 已公开：我们想和志同道合的人一起定义 agent 原生组织
 
 ## 摘要导语
@@ -13,7 +13,7 @@
 
 这不是一份融资材料，也不是一份产品说明书，而是一个公开协作的白皮书项目。我们想讨论一件更底层的事情：当 AI agent 不再只是工具，而开始变成执行、协作、治理和决策中的持续性参与者时，组织应该如何运行。
 
-在我们看来，Agentabook 不应该先被定义成一个 agent marketplace。更早、更基础的问题，是 agent 原生组织内部如何协同，know-how 如何沉淀和治理，不同组织之间又如何协作和交易。
+在我们看来，更早、更基础的问题，是 agent 原生组织内部如何协同，know-how 如何沉淀和治理，不同组织之间又如何协作和交易。
 
 如果你也在思考 agent 协作、组织记忆、workflow 资产化、agent 之间的协同协议，欢迎来一起建设。
 
@@ -45,20 +45,9 @@ https://github.com/zhangmaosen/agentabook-foundation
 
 更准确地说，我们想做的是一个公开的 whitepaper project，把一套还在形成中的判断、对象模型和系统边界，放到 GitHub 上，吸引真正关心这件事的人一起讨论、一起修正、一起建设。
 
-## Agentabook 不该先被定义成 marketplace
+## Agentabook 要解决的，是组织运行问题
 
-我们最早也把 Agentabook 理解成 agent labor market。
-
-这个方向并不是错的，但现在回头看，它太早，也太窄。
-
-因为 market 要成立，至少要先有几件事：
-
-第一，供给要稳定。
-第二，质量要可验证。
-第三，需求要可持续。
-第四，结算和激励要有明确边界。
-
-而今天真正更早成立的，不是交易市场，而是更底层的协作和训练系统。
+今天真正更早成立的，不是外部交易，而是更底层的协作和训练系统。
 
 agent 之间怎么协同？
 know-how 怎么沉淀？
@@ -66,13 +55,13 @@ workflow 怎么复用？
 强 agent 的经验怎么传给别的 agent？
 组织内部怎么把 context、memory、judgement 变成可以持续流动的 operating asset？
 
-这些问题如果不先解决，所谓 market 很容易退化成一个浅层的 skill listing 或 prompt marketplace。
+这些问题如果不先解决，系统很容易退化成一个浅层的 listing 与分发产品。
 
-它会有一些展示页，也会有一些交易，但很难真正形成厚的网络效应。
+它会有一些展示页，也会有一些流量，但很难真正形成厚的组织能力积累。
 
 所以我们现在更明确的判断是：
 
-Agentabook 的第一性定义，不是 marketplace，而是 agent 原生组织的运行层。
+Agentabook 的第一性定义，是 agent 原生组织的运行层。
 
 ## 我们现在怎么理解 Agentabook
 
@@ -116,7 +105,7 @@ know-how 资产，
 
 这个顺序不能反。
 
-如果一开始就把交易层放到最前面，产品会非常容易滑回一个浅层 market story。
+如果一开始就把交易层放到最前面，产品会非常容易滑回一个浅层 listing story。
 
 但如果先把组织内部的 agent 协同、know-how 治理和运行证据跑通，那么后面的交易对象就不再只是一次性的 labor fragment，而会变成厚的 know-how asset、经过验证的 workflow、带有上下文和历史记录的 operating capability。
 
@@ -143,7 +132,7 @@ source 哪些可信，
 
 所以我们越来越确信，未来真正会复利的，不是裸 skill，而是 skill 背后不断沉淀出来的 context、memory、workflow pattern、decision framework、failure pattern 和 performance history。
 
-也正因为如此，我们觉得 Agentabook 的第一阶段更像 training system 和 internal collaboration system，而不是一上来就做公开 market。
+也正因为如此，我们觉得 Agentabook 的第一阶段更像 training system 和 internal collaboration system。
 
 ## 为什么这件事值得公开在 GitHub 上做
 
@@ -216,7 +205,7 @@ https://github.com/zhangmaosen/agentabook-foundation
 
 但也正因为早，才值得在今天把它公开出来，和真正关心它的人一起把问题想清楚。
 
-不是先把 market 讲大。
+不是先把交易和交换讲大。
 
 而是先把组织如何在 agent 时代运行这件事，讲明白，做出来。
 

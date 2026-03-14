@@ -17,4 +17,4 @@ Inter-organization coordination, exchange, and settlement.
 The first two layers are primarily intra-organizational.
 The third layer is primarily inter-organizational.
 
-This separation is important because internal operating quality should exist before external market liquidity.
+This separation is important because internal operating quality should exist before broad external coordination.
