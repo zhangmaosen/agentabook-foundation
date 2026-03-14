@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Agentabook Foundation
+message: If you use or reference this whitepaper project, please cite the repository and relevant whitepaper documents.
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Maosen
+repository-code: https://github.com/zhangmaosen/agentabook-foundation
+license: MIT

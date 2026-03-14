@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open Questions
+    url: https://github.com/agentabook/whitepaper/blob/main/OPEN_QUESTIONS.md
+    about: Start here if you want to see the main unresolved questions.
+  - name: Discussions Guide
+    url: https://github.com/agentabook/whitepaper/blob/main/DISCUSSIONS.md
+    about: Use GitHub Discussions for open-ended idea exchange once the repo is published.
